@@ -13,7 +13,9 @@ permalink: /people
 
 # **Wow, so empty!** 
 
-Were actively working on building the group! If you have a background in structural or computational biology and a strong interest in evolution consider applying to one of the positions below.
+We are actively working on building the group! If you have a background in structural or computational biology and a strong interest in evolution consider applying to one of the positions below.
+
+Fully funded positions are open until February 2nd 2026!
 
 [Research Assistant - Structural](https://www.jobs.gla.ac.uk/job/research-assistant-structural-5774033?source=gla.ac.uk)
 

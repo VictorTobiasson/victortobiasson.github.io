@@ -8,7 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
+// include relevant fonts
 body {
   font-family: "Nanum Gothic", sans-serif;
   font-weight: 400;
@@ -22,7 +22,7 @@ h1, h2, h3 {
   font-style: normal;
 }
 
-
+// format overlay image for splash page
 .page__hero--overlay {
   min-height: 25vh;
   margin-top: -10rem; /* pull hero under masthead */
@@ -39,9 +39,22 @@ h1, h2, h3 {
   object-fit: cover;
 }
 
+// add logo formating at bottom
+.page__footer-image {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
 
+  img {
+    width: 5vw;        // logo width is 10% of viewport width
+    max-width: 70px;   // optional: prevent it from getting too big
+    min-width: 50px;    // optional: prevent it from getting too small
+    height: auto;       // maintain aspect ratio
 
+  }
+}
 
+// format the bibbase as it looked bad
 #bibbase {
   font-size: 0.95rem;
 }

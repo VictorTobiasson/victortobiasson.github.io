@@ -18,4 +18,6 @@ Mitochondria are special in this context and central to the development of eukar
 
 By complementing structural characterization with classic evolutionary analysis and phylogenetics, we seek to understand and reconcile the two opposing trends, conservation and divergence, and investigate the development of protein complexity on the evolutionary, structural and functional level. 
 
-As a recent Wellcome CDA Fellow, I am recruiting researchers with a strong evolutionary interest to the University of Glasgow to investigate uncharacterized systems and discover new biology. **If you are interested, please reach out!**
+As a recent Wellcome CDA Fellow, I am loking for researchers with a strong evolutionary interest to join me at the University of Glasgow to investigate new uncharacterized systems and discover new biology.
+
+**If you are interested, please reach out!**
