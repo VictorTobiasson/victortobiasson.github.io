@@ -12,13 +12,10 @@ header:
 permalink: /
 ---
 
-[contact me](mailto:victor.tobiasson@glasgow.ac.uk)
-
-
 Over the course of four billion years the process of evolution has created the great biological diversity seen today. **Our research focuses on those forces shaping the long-term evolution of this complexity.**
 
 Mitochondria are special in this context and central to the development of eukaryotes. Mitochondria also possess their own specialised translation system, the mitochondrial ribosome. Mitochondrial ribosomes are shaped by the unique environment inside mitochondria, featuring an unparalleled structural diversity despite performing perhaps the most ancient and well conserved function in biology, protein synthesis. 
 
-Through structural characterization using electron cryomicroscopy, complemented with classic evolutionary analysis and phylogenetics, we seek to understand and reconcile the two opposing trends, conservation and divergence, and investigate the development of protein complexity on the evolutionary, structural and functional level. 
+By complementing structural characterization with classic evolutionary analysis and phylogenetics, we seek to understand and reconcile the two opposing trends, conservation and divergence, and investigate the development of protein complexity on the evolutionary, structural and functional level. 
 
-As a recent Wellcome CDA Fellow, I am recruiting researchers with a strong evolutionary interest to the University of Glasgow to investigate uncharacterized systems and discover new biology. **If you are interested, please reach out!
+As a recent Wellcome CDA Fellow, I am recruiting researchers with a strong evolutionary interest to the University of Glasgow to investigate uncharacterized systems and discover new biology. **If you are interested, please reach out!**
