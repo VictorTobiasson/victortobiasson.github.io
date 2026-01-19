@@ -24,9 +24,9 @@ h1, h2, h3 {
 
 // format overlay image for splash page
 .page__hero--overlay {
-  min-height: 25vh;
+  min-height: 20%;
   margin-top: -10rem; /* pull hero under masthead */
-  padding-top: 4rem; /* keep content readable */
+  padding-top: 0rem; /* keep content readable */
   background-size: cover;
   background-position: center
 }
